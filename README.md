@@ -1,4 +1,4 @@
-# MGS Bedrock Cross Section Tools
+# MGS Bedrock Cross Section Tools (ARCHIVE)
 
 THIS REPOSITORY HAS BEEN ARCHIVED. ALL FUNCTIONALITY HAS BEEN FOLDED INTO [MGS_CrossSection_Tools](https://github.com/trisarahtopsian/MGS_CrossSection_Tools).
 
